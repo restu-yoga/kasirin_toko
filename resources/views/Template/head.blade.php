@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="{{asset('css/app.css')}}" type="text/css">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="{{ asset('/style/plugins/fontawesome-free/css/all.min.css')}}">
+<!-- DataTables -->
+<link rel="stylesheet" href="{{ asset('/style/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css')}}">
+<link rel="stylesheet" href="{{ asset('/style/plugins/datatables-responsive/css/responsive.bootstrap4.min.css')}}">
+<link rel="stylesheet" href="{{ asset('/style/plugins/datatables-buttons/css/buttons.bootstrap4.min.css')}}">
